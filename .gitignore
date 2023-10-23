@@ -1,0 +1,6 @@
+*.gif
+*.png
+*.jpg
+pkg/
+temp/
+bin/
